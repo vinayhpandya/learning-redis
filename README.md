@@ -123,3 +123,10 @@ Implemented transactions
 1. Implemented multi and exec commands for transactions
 2. Implemented DISCARD as well
 3. Need to verify with AOF files as well
+
+### Milestone 9.1
+Implemented Strings with similar configuration like redis
+
+1. Implement append comand
+2. Implement string allocation for EMBSTR and RAW.
+3. TODO -> Add more details for aof logs
